@@ -60,6 +60,12 @@
 #define COCOAPODS_VERSION_MINOR_AMapSearch 5
 #define COCOAPODS_VERSION_PATCH_AMapSearch 0
 
+// Masonry
+#define COCOAPODS_POD_AVAILABLE_Masonry
+#define COCOAPODS_VERSION_MAJOR_Masonry 0
+#define COCOAPODS_VERSION_MINOR_Masonry 6
+#define COCOAPODS_VERSION_PATCH_Masonry 1
+
 // QBImagePickerController
 #define COCOAPODS_POD_AVAILABLE_QBImagePickerController
 #define COCOAPODS_VERSION_MAJOR_QBImagePickerController 2

@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-Masonry.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-QBImagePickerController-QBImagePickerController.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -32,27 +37,32 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>029852A44CECE0AE24D7E9A2</key>
+		<key>0946B05345CF527D47394400</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>20F111FEBE9DB138F52B88FB</key>
+		<key>3CF6D5281E96056E5D8FAFBC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>2AD5C6F879AE36D82B8E4782</key>
+		<key>4CD5A7A67E02B7ABD1C2CF24</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>51E1F77E4028AC757BED58DF</key>
+		<key>D3D349BEA7752AF2490B206F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8ECC7F1C81E99775E1B6BE62</key>
+		<key>EA0245D3264A3CBCA59A7EB0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FE8F8C68AC70CCC7EF6C78FD</key>
 		<dict>
 			<key>primary</key>
 			<true/>
