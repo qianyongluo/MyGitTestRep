@@ -8,7 +8,7 @@
 
 #import "LBSViewController.h"
 
-//edf1901e20148f5c39dc562e36ee3daa //我也是个冲突
+//edf1901e20148f5c39dc562e36ee3daa //我也是个冲突 哈哈 冲突来啦
 #import <MAMapKit/MAMapKit.h>
 #import <AMapSearchKit/AMapSearchAPI.h>
 #define APIKey @"6ad25eb25331625e70488b4d9c6196b8"
