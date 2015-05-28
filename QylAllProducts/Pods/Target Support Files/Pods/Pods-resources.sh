@@ -59,10 +59,20 @@ install_resource()
 }
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_resource "AMap3DMap/MAMapKit.framework/Versions/2.5.1.174fe76.60159/Resources/AMap.bundle"
+  install_resource "GPUImage/framework/Resources/lookup.png"
+  install_resource "GPUImage/framework/Resources/lookup_amatorka.png"
+  install_resource "GPUImage/framework/Resources/lookup_miss_etikate.png"
+  install_resource "GPUImage/framework/Resources/lookup_soft_elegance_1.png"
+  install_resource "GPUImage/framework/Resources/lookup_soft_elegance_2.png"
   install_resource "${BUILT_PRODUCTS_DIR}/QBImagePickerController.bundle"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_resource "AMap3DMap/MAMapKit.framework/Versions/2.5.1.174fe76.60159/Resources/AMap.bundle"
+  install_resource "GPUImage/framework/Resources/lookup.png"
+  install_resource "GPUImage/framework/Resources/lookup_amatorka.png"
+  install_resource "GPUImage/framework/Resources/lookup_miss_etikate.png"
+  install_resource "GPUImage/framework/Resources/lookup_soft_elegance_1.png"
+  install_resource "GPUImage/framework/Resources/lookup_soft_elegance_2.png"
   install_resource "${BUILT_PRODUCTS_DIR}/QBImagePickerController.bundle"
 fi
 
