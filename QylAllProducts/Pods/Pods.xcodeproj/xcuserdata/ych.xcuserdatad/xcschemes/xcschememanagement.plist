@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-GPUImage.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-Masonry.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -37,32 +42,37 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>0946B05345CF527D47394400</key>
+		<key>256F8BC8FAF290F157794216</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>3CF6D5281E96056E5D8FAFBC</key>
+		<key>2AA74A5A5F499A29059B1378</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4CD5A7A67E02B7ABD1C2CF24</key>
+		<key>2F13F841E7DADB06E992A83C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D3D349BEA7752AF2490B206F</key>
+		<key>3A63928685FDD61D30FE9FC9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>EA0245D3264A3CBCA59A7EB0</key>
+		<key>48853BFBFCD5C542762E3296</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>FE8F8C68AC70CCC7EF6C78FD</key>
+		<key>6A83101AE8946BDF97E6F72F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>83DF0D19221B6CB574712A40</key>
 		<dict>
 			<key>primary</key>
 			<true/>

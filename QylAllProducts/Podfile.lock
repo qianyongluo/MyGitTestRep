@@ -22,6 +22,7 @@ PODS:
     - AFNetworking/NSURLSession
   - AMap3DMap (2.5.1)
   - AMapSearch (2.5.0)
+  - GPUImage (0.1.6)
   - Masonry (0.6.1)
   - QBImagePickerController (2.2.4)
   - SDWebImage (3.7.2):
@@ -32,6 +33,7 @@ DEPENDENCIES:
   - AFNetworking (~> 2.0)
   - AMap3DMap
   - AMapSearch
+  - GPUImage
   - Masonry
   - QBImagePickerController (~> 2.2.2)
   - SDWebImage (~> 3.7.2)
@@ -40,6 +42,7 @@ SPEC CHECKSUMS:
   AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
   AMap3DMap: 63349e4f7b6f097bce63853b24fe92ea0603a8f8
   AMapSearch: eafa5a749b1078a46f15e6108e88307f78f75e9b
+  GPUImage: 4675ce4a5370ca92fcea8623b2a08b8f0c51b940
   Masonry: 4972309f2f134de9dd312f4dc4a21359b50e6caa
   QBImagePickerController: 2564a35c4ad1eb6da7324ae413a84c980eb341b9
   SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
